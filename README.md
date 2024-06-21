@@ -1,4 +1,8 @@
 # Backend
+### overview 
+The project is a simple backend server built with Express.js and TypeScript. It provides endpoints to handle form submissions and retrieve specific submissions using a JSON file (db.json) as the database. The server runs locally and can be integrated with a frontend application for a complete full-stack setup.
+- ![Description of the image](backend.png)
+
 ### Prerequisites
 - Node.js (version >= 12.0.0)
 - npm (Node Package Manager)
