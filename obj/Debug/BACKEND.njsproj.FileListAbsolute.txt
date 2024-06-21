@@ -1,0 +1,3 @@
+C:\Users\navan\source\repos\BACKEND\obj\Debug\BACKEND.njsproj.AssemblyReference.cache
+C:\Users\navan\source\repos\BACKEND\obj\Debug\BACKEND.njsproj.CoreCompileInputs.cache
+C:\Users\navan\source\repos\BACKEND\bin\Microsoft.NodejsTools.WebRole.dll
