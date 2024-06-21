@@ -9,6 +9,8 @@
 - tsc --init
 ### Install Nodemon globally
 - npm install -g nodemon
+### Update package.json scripts section to use Nodemon:
+-  "start": "nodemon --exec ts-node src/server.ts"
 ### To run the server
 ```bash
 npm start
